@@ -1,5 +1,7 @@
 # RD Ambassador
 
+[Robot Devastation](http://asrob-uc3m.github.io/workgroups/2017-05-28-robot-devastation.html) robot: RD Ambassador
+
 - [Propósito](proposito.md)
 - [Diagrama de bloques](diagrama-de-bloques.md)
 - [Lista de Materiales](lista-de-materiales.md)
