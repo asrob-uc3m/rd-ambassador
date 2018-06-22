@@ -1,5 +1,11 @@
 # RD Ambassador
 
-[Cómo montar el robot RD Ambassador](https://github.com/asrob-uc3m/robotDevastation-user-manual/tree/master/es/robots/rd-ambassador)
+- [Propósito](proposito.md)
+- [Diagrama de bloques](diagrama-de-bloques.md)
+- [Lista de Materiales](lista-de-materiales.md)
+- [Montaje de la placa](montaje-de-la-placa.md)
+- [Puesta en marcha](puesta-en-marcha.md)
 
-![RD Ambassador robot](rdAmbassador.jpg)
+![RD Ambassador front view](/assets/rdAmbassador.jpg)
+![RD Ambassador back view](/assets/rdAmbassador-back.jpg)
+
