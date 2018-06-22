@@ -1,8 +1,8 @@
 # Montaje de la placa
 La placa actualmente es totalmente DIY, hecha sobre una Perfboard. Aquí hay unas imágenes de muestra que sirven de referencia:
 
-![Shield](../../../assets/RdAmbassador_shield.jpg)
-![Shield back](../../../assets/RdAmbassador_shield_back.jpg)
+![Shield](/assets/rdAmbassador-shield.jpg)
+![Shield back](/assets/rdAmbassador-shield-back.jpg)
 
 ## Pinout
 El puente en H es controlado directamente desde la Raspberry Pi 2. Está conectado a los siguientes pines:

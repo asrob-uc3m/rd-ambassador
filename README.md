@@ -6,7 +6,6 @@
 - [Montaje de la placa](montaje-de-la-placa.md)
 - [Puesta en marcha](puesta-en-marcha.md)
 
-![RdAmbassador front view](/assets/rdAmbassador.jpg)
-![RdAmbassador back view](/assets/rdAmbassador_back.jpg)
-
+![RD Ambassador front view](/assets/rdAmbassador.jpg)
+![RD Ambassador back view](/assets/rdAmbassador-back.jpg)
 
