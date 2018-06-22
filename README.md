@@ -7,5 +7,7 @@
 - [Puesta en marcha](puesta-en-marcha.md)
 - [Software](software.md)
 
+Prototype status: in medium-sized box. Raspi 2 B with zip tie to chassis, with 8GB micro SDHC. Considering switching to available Raspi 3 B (the wait would be long for a 3 B+).
+
 ![RD Ambassador front view](/assets/rdAmbassador.jpg)
 ![RD Ambassador back view](/assets/rdAmbassador-back.jpg)
