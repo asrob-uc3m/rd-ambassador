@@ -1,6 +1,6 @@
 # Propósito
 
-El robot Rd Ambassador fue diseñado con el objetivo de tener un robot *rápido de montar* y *accesible a todos los públicos*.
+El robot RD Ambassador fue diseñado con el objetivo de tener un robot *rápido de montar* y *accesible a todos los públicos*.
 
 Para ello, se siguieron las siguientes directrices:
 
