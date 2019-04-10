@@ -1,0 +1,5 @@
+# .gitignore
+## Files we want to have locally, but do not want to push to remote
+
+/_book/
+/node_modules/
