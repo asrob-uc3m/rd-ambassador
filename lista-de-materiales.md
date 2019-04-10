@@ -15,4 +15,4 @@ La lista de materiales es la siguiente:
 | Placa Perfboard | 1 | 
 | Tira de Pines Macho | 1 |
 
-\* En nuestra implementación usamos unos DC-DC equivalentes, pero de menor tamaño, que teníamos en stock.
+\* En nuestra implementación usamos 1 DC-DC citado y 1 DC-DC equivalente de menor tamaño basado en RT8272, que teníamos en stock.
